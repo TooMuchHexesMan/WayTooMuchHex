@@ -1,0 +1,2467 @@
+{
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2026-05-21 20:53:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-05-21 20:53:56 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-21 21:04:04 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:creative_unlocker": {
+    "criteria": {
+      "has_creative_unlocker": "2026-05-21 21:04:04 -0700"
+    },
+    "done": true
+  },
+  "yaha:eat_bomb": {
+    "criteria": {
+      "eat_bomb": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:root": {
+    "criteria": {
+      "root": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:aab_embed_mind": {
+    "criteria": {
+      "embed_mind": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:aab_big_cast": {
+    "criteria": {
+      "cast_amt": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/inventory": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:enlightenment": {
+    "criteria": {
+      "health_used": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:item/bundle": {
+    "criteria": {
+      "root": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:stack_overflow": {
+    "criteria": {
+      "root": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:self_exposed": {
+    "criteria": {
+      "root": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom4": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom3": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom5": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom2": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom1": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:aaa_wasteful_cast": {
+    "criteria": {
+      "waste_amt": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "yaha:collide_planes": {
+    "criteria": {
+      "collide_planes": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment1": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment2": {
+    "criteria": {
+      "grant": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "yaha:bomb_defusal": {
+    "criteria": {
+      "collide_planes": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:all_triggers": {
+    "criteria": {
+      "all_triggers": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:aaa_waste_mind": {
+    "criteria": {
+      "waste_mind": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:fuse_villagers": {
+    "criteria": {
+      "fuse_villagers": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "yaha:susception": {
+    "criteria": {
+      "collide_planes": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:fuse_to_self": {
+    "criteria": {
+      "fuse_to_self": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:opened_eyes": {
+    "criteria": {
+      "health_used": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:y_u_no_cast_angy": {
+    "criteria": {
+      "did_the_thing": "2026-05-21 21:04:06 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_white": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_gay": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_light_gray": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_cyan": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_lesbian": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_magenta": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_asexual": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_agender": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_dust_packing": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_red": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_gray": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_purple": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_intersex": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/ancient_colorizer": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_pansexual": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_demigirl": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/default_colorizer": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_dust_unpacking": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_genderqueer": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_plural": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_green": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/uuid_colorizer": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_yellow": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_aroace": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_transgender": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_nonbinary": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_aromantic": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_genderfluid": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_bisexual": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/pride_colorizer_demiboy": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_light_blue": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_brown": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/slate": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_pink": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_lime": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_black": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_blue": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/dye_colorizer_orange": {
+    "criteria": {
+      "has_item": "2026-05-21 21:05:13 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/trinket": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/lens": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/artifact": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_small": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/powder_snow_cauldron": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/abacus": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/blue_ice": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_medium": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/packed_ice": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus_rotated": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/redstone/relay": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/thought_knot": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/cypher": {
+    "criteria": {
+      "has_item": "2026-05-21 21:06:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-05-21 21:16:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-05-22 08:42:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-05-22 08:42:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-05-22 08:42:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-05-22 08:43:31 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/spellbook": {
+    "criteria": {
+      "has_focus": "2026-05-22 08:44:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:movesthemind/try_banish_self": {
+    "criteria": {
+      "dummy": "2026-05-23 08:22:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-05-23 08:43:16 -0700"
+    },
+    "done": true
+  },
+  "hextweaks:grandspell/explode": {
+    "criteria": {
+      "grant": "2026-05-23 08:52:43 -0700"
+    },
+    "done": true
+  },
+  "hextweaks:grandspell/fireball": {
+    "criteria": {
+      "grant": "2026-05-23 08:57:00 -0700"
+    },
+    "done": true
+  },
+  "hextweaks:grandspell/mindflayplus": {
+    "criteria": {
+      "grant": "2026-05-23 08:59:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-05-23 09:39:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-05-23 09:39:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-05-23 09:39:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-05-23 09:39:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2026-05-23 09:39:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2026-05-23 09:39:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-05-23 09:39:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2026-05-23 09:39:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2026-05-23 09:39:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2026-05-23 09:39:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2026-05-23 09:40:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2026-05-23 09:40:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2026-05-23 09:40:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-05-23 09:42:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2026-05-23 09:42:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2026-05-23 09:42:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2026-05-23 09:42:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-23 09:42:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2026-05-23 09:42:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-05-23 10:12:24 -0700",
+      "minecraft:nether_wastes": "2026-06-12 05:31:36 -0700",
+      "minecraft:warped_forest": "2026-06-12 05:32:13 -0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-05-23 10:12:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-05-23 10:12:24 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_pillar": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_bricks_small": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_tiles": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_bricks": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks_from_slate_bricks_small": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_tiles": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_pillar": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks_small_from_slate_bricks": {
+    "criteria": {
+      "has_item": "2026-05-23 10:37:18 -0700"
+    },
+    "done": true
+  },
+  "hexkeys:enter_the_mindscape": {
+    "criteria": {
+      "entered_nether": "2026-05-23 11:13:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-05-23 12:03:26 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_block_from_slates": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_bricks": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_block": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_tiles": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_bricks_small": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_pillar": {
+    "criteria": {
+      "has_item": "2026-05-24 14:36:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-05-24 15:05:10 -0700"
+    },
+    "done": true
+  },
+  "hexical:root": {
+    "criteria": {
+      "start_hexcasting": "2026-05-24 19:23:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise4": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise2": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise3": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise1": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:prick_self": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:unflay": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_garden": {
+    "criteria": {
+      "garden": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:enter_noosphere": {
+    "criteria": {
+      "entered_noosphere": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_media_lab": {
+    "criteria": {
+      "tower": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_tower": {
+    "criteria": {
+      "tower": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/root": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:unlock_rod": {
+    "criteria": {
+      "avoid_vibration": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science3": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science1": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science2": {
+    "criteria": {
+      "grant": "2026-05-24 20:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-05-24 21:25:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-05-24 21:30:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-05-24 21:30:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-05-24 21:30:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-05-24 21:55:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-05-24 21:55:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-05-24 21:55:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-05-24 22:00:07 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/decompose_quenched_shard/shard": {
+    "criteria": {
+      "has_item": "2026-05-24 22:10:11 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/decompose_quenched_shard/dust": {
+    "criteria": {
+      "has_item": "2026-05-24 22:10:11 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/misc/decompose_quenched_shard/charged": {
+    "criteria": {
+      "has_item": "2026-05-24 22:10:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-05-25 08:02:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-05-25 08:48:04 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/oak_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-05-25 13:29:46 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/oak_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-05-25 13:29:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-05-25 13:32:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2026-05-25 13:37:57 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_bricks": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/amethyst_tiles": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/amethyst_pillar": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/amethyst_bricks_small": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_bricks_small_from_amethyst_bricks": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_tiles": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_pillar": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/amethyst_bricks_from_amethyst_bricks_small": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/amethyst_bricks": {
+    "criteria": {
+      "has_item": "2026-05-25 14:41:39 -0700"
+    },
+    "done": true
+  },
+  "hexical:specklike": {
+    "criteria": {
+      "specklike": "2026-05-25 16:31:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-05-25 19:55:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_stair_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-05-25 20:59:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-05-25 21:10:37 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2026-05-27 18:39:43 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/evaluator": {
+    "criteria": {
+      "has_item": "2026-05-27 20:13:22 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/debugger": {
+    "criteria": {
+      "has_item": "2026-05-27 20:13:22 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/splicing_table": {
+    "criteria": {
+      "has_item": "2026-05-27 20:13:22 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/focus_holder_filling_shaped/focus": {
+    "criteria": {
+      "has_item": "2026-05-27 20:13:22 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/focus_holder": {
+    "criteria": {
+      "has_item": "2026-05-27 20:13:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-05-28 15:17:55 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/jungle": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/spruce": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/quenched": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/edified": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_staff_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/dark_oak": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_conch_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_interlock_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_up_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_clover_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/mindsplice": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_strange_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/cherry": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_cube_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/oak": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexchanting:recipes/equipment": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/crimson": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/birch": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_key_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_beauty_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/warped": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_flute_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/mangrove": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/amethyst_sconce": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_down_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_heart_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/acacia": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_compass_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_handbell_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_charm_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_truth_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexical:recipes/misc/curio/curio_bismuth_from_stonecutting": {
+    "criteria": {
+      "has_charged_amethyst": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/staff/bamboo": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:12 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/food/sub_sandwich": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/scroll_paper": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/jeweler_hammer": {
+    "criteria": {
+      "has_item": "2026-05-28 15:27:15 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2026-05-28 19:00:13 -0700"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2026-05-28 19:03:38 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2026-05-28 19:03:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2026-05-28 19:04:08 -0700",
+      "minecraft:zombified_piglin": "2026-06-17 05:34:49 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2026-05-28 19:04:08 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/illusioner_kill": {
+    "criteria": {
+      "c1": "2026-05-28 19:04:33 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "illusioner": "2026-05-28 19:04:33 -0700"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/illusionerkill": {
+    "criteria": {
+      "c1": "2026-05-28 19:04:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/cobblestone_vertical_stair_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/cobblestone_vertical_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/cobblestone_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/cobblestone_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-06-07 09:53:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-06-07 11:19:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-06-07 11:48:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-06-07 11:48:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-06-07 11:48:39 -0700"
+    },
+    "done": true
+  },
+  "hexical:acquire_hand_lamp": {
+    "criteria": {
+      "acquire_hand_lamp": "2026-06-07 18:29:34 -0700"
+    },
+    "done": true
+  },
+  "hexical:acquire_arch_lamp": {
+    "criteria": {
+      "acquire_arch_lamp": "2026-06-07 18:29:48 -0700"
+    },
+    "done": true
+  },
+  "hexical:educate_lamp": {
+    "criteria": {
+      "educate_lamp": "2026-06-07 18:31:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2026-06-07 21:05:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2026-06-07 21:05:16 -0700"
+    },
+    "done": true
+  },
+  "enderite:end/obtain_enderite_armor": {
+    "criteria": {
+      "has_chestplate": "2026-06-07 21:05:30 -0700"
+    },
+    "done": false
+  },
+  "enderite:end/obtain_enderite_elytra_chestplate": {
+    "criteria": {
+      "has_enderite_elytra_chestplate": "2026-06-07 21:05:30 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/misc/enderite_upgrade_smithing_template": {
+    "criteria": {
+      "has_enderite_upgrade_smithing_template": "2026-06-07 21:07:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-06-07 21:09:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-06-07 21:09:00 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/misc/enderite_scrap_from_blasting_enderite_ore": {
+    "criteria": {
+      "has_enderite_ore": "2026-06-07 21:10:36 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/misc/enderite_scrap_from_smelting_enderite_ore": {
+    "criteria": {
+      "has_enderite_ore": "2026-06-07 21:10:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-06-07 21:11:10 -0700"
+    },
+    "done": true
+  },
+  "enderite:end/explore_all_end_biomes": {
+    "criteria": {
+      "small_end_islands": "2026-06-07 21:12:36 -0700",
+      "end_midlands": "2026-06-07 21:12:03 -0700",
+      "the_end": "2026-06-07 21:12:08 -0700",
+      "end_highlands": "2026-06-07 21:12:02 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/combat/gilded_enderite_elytra_chestplate_smithing_from_golden_core": {
+    "criteria": {
+      "has_enderite_elytra_chestplate_smithing_from_golden_core": "2026-06-07 21:12:18 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-06-11 16:05:43 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:got_lapis": {
+    "criteria": {
+      "get_lapis": "2026-06-16 18:25:02 -0700",
+      "be_a_hexcaster": "2026-06-16 18:24:33 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_enchsent": {
+    "criteria": {
+      "grant": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:enlightened": {
+    "criteria": {
+      "be_enlightened_and_be_a_lapisworker": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_flay_artmind": {
+    "criteria": {
+      "grant": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_hastenature": {
+    "criteria": {
+      "grant": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:enlightened_with_flay_artmind": {
+    "criteria": {
+      "be_enlightened_and_be_a_lapisworker_and_rediscover_imbue_mind": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:cluedin": {
+    "criteria": {
+      "grant": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_quenched_indigo": {
+    "criteria": {
+      "grant": "2026-06-16 18:25:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2026-06-16 18:37:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2026-06-16 18:37:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-06-16 18:37:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2026-06-16 18:37:30 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/tools/enderite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe_smithing": "2026-06-16 18:37:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-06-16 18:37:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-06-16 18:37:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/birch_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/birch_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-17 05:35:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-06-17 06:03:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-06-17 22:20:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-06-17 22:20:45 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2026-06-18 17:56:04 -0700",
+      "has_black_balloon": "2026-06-18 17:56:04 -0700",
+      "has_lime_balloon": "2026-06-18 17:56:04 -0700",
+      "has_cyan_balloon": "2026-06-18 17:56:04 -0700",
+      "has_light_blue_balloon": "2026-06-18 17:56:04 -0700",
+      "has_gray_balloon": "2026-06-18 17:56:04 -0700",
+      "has_pink_balloon": "2026-06-18 17:56:04 -0700",
+      "has_light_gray_balloon": "2026-06-18 17:56:04 -0700",
+      "has_white_balloon": "2026-06-18 17:56:04 -0700",
+      "has_blue_balloon": "2026-06-18 17:56:04 -0700",
+      "has_yellow_balloon": "2026-06-18 17:56:04 -0700",
+      "has_purple_balloon": "2026-06-18 17:56:04 -0700",
+      "has_orange_balloon": "2026-06-18 17:56:04 -0700",
+      "has_brown_balloon": "2026-06-18 17:56:04 -0700",
+      "has_green_balloon": "2026-06-18 17:56:04 -0700",
+      "has_magenta_balloon": "2026-06-18 17:56:04 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2026-06-18 17:56:04 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2026-06-18 17:56:04 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2026-06-18 17:56:04 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2026-06-18 17:56:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-06-18 18:13:28 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_wool": {
+    "criteria": {
+      "has_wool": "2026-06-18 18:13:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-06-18 18:13:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-06-18 18:13:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-06-18 18:24:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2026-06-18 18:25:04 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/tools/enderite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe_smithing": "2026-06-18 22:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-06-19 06:34:47 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2026-06-19 16:50:10 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,240 @@
+{
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2026-06-19 13:55:21 -0700",
+      "has_black_balloon": "2026-06-19 13:55:21 -0700",
+      "has_lime_balloon": "2026-06-19 13:55:21 -0700",
+      "has_cyan_balloon": "2026-06-19 13:55:21 -0700",
+      "has_light_blue_balloon": "2026-06-19 13:55:21 -0700",
+      "has_gray_balloon": "2026-06-19 13:55:21 -0700",
+      "has_pink_balloon": "2026-06-19 13:55:21 -0700",
+      "has_light_gray_balloon": "2026-06-19 13:55:21 -0700",
+      "has_white_balloon": "2026-06-19 13:55:21 -0700",
+      "has_blue_balloon": "2026-06-19 13:55:21 -0700",
+      "has_yellow_balloon": "2026-06-19 13:55:21 -0700",
+      "has_purple_balloon": "2026-06-19 13:55:21 -0700",
+      "has_orange_balloon": "2026-06-19 13:55:21 -0700",
+      "has_brown_balloon": "2026-06-19 13:55:21 -0700",
+      "has_green_balloon": "2026-06-19 13:55:21 -0700",
+      "has_magenta_balloon": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2026-06-19 13:55:21 -0700"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-06-19 13:55:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2026-06-19 13:56:40 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/trinket": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/lens": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/artifact": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/evaluator": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/blue_ice": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/packed_ice": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus_rotated": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/redstone/relay": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/thought_knot": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/debugger": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_small": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/powder_snow_cauldron": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/abacus": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_medium": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/cypher": {
+    "criteria": {
+      "has_item": "2026-06-19 14:00:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

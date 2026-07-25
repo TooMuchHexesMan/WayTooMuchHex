@@ -1,0 +1,1083 @@
+{
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:grant_patchi_book": {
+    "criteria": {
+      "tick": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2026-06-19 13:18:43 -0700",
+      "has_black_balloon": "2026-06-19 13:18:43 -0700",
+      "has_lime_balloon": "2026-06-19 13:18:43 -0700",
+      "has_cyan_balloon": "2026-06-19 13:18:43 -0700",
+      "has_light_blue_balloon": "2026-06-19 13:18:43 -0700",
+      "has_gray_balloon": "2026-06-19 13:18:43 -0700",
+      "has_pink_balloon": "2026-06-19 13:18:43 -0700",
+      "has_light_gray_balloon": "2026-06-19 13:18:43 -0700",
+      "has_white_balloon": "2026-06-19 13:18:43 -0700",
+      "has_blue_balloon": "2026-06-19 13:18:43 -0700",
+      "has_yellow_balloon": "2026-06-19 13:18:43 -0700",
+      "has_purple_balloon": "2026-06-19 13:18:43 -0700",
+      "has_orange_balloon": "2026-06-19 13:18:43 -0700",
+      "has_brown_balloon": "2026-06-19 13:18:43 -0700",
+      "has_green_balloon": "2026-06-19 13:18:43 -0700",
+      "has_magenta_balloon": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2026-06-19 13:18:43 -0700"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-06-19 13:18:44 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-06-19 13:21:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-06-19 13:21:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-06-19 15:40:50 -0700",
+      "minecraft:soul_sand_valley": "2026-06-19 13:21:40 -0700",
+      "minecraft:nether_wastes": "2026-06-19 16:22:39 -0700"
+    },
+    "done": false
+  },
+  "hexcasting:recipes/tools/trinket": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/lens": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/artifact": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/evaluator": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/blue_ice": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/packed_ice": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus_rotated": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/focus": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/redstone/relay": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/thought_knot": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/tools/debugger": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_small": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexal:recipes/freeze/freeze/powder_snow_cauldron": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/abacus": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/decorations/scroll_medium": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/cypher": {
+    "criteria": {
+      "has_item": "2026-06-19 13:41:05 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2026-06-19 13:42:34 -0700"
+    },
+    "done": true
+  },
+  "hexical:root": {
+    "criteria": {
+      "start_hexcasting": "2026-06-19 13:42:34 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:creative_unlocker": {
+    "criteria": {
+      "has_creative_unlocker": "2026-06-19 13:42:34 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:got_lapis": {
+    "criteria": {
+      "get_lapis": "2026-06-19 13:42:38 -0700",
+      "be_a_hexcaster": "2026-06-19 13:42:34 -0700"
+    },
+    "done": true
+  },
+  "yaha:eat_bomb": {
+    "criteria": {
+      "eat_bomb": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:aab_big_cast": {
+    "criteria": {
+      "cast_amt": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:prick_self": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:unflay": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_media_lab": {
+    "criteria": {
+      "tower": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_enchsent": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:enlightened": {
+    "criteria": {
+      "be_enlightened_and_be_a_lapisworker": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/root": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:enlightenment": {
+    "criteria": {
+      "health_used": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:item/bundle": {
+    "criteria": {
+      "root": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:self_exposed": {
+    "criteria": {
+      "root": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:aaa_waste_mind": {
+    "criteria": {
+      "waste_mind": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_flay_artmind": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:opened_eyes": {
+    "criteria": {
+      "health_used": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_hastenature": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:enlightened_with_flay_artmind": {
+    "criteria": {
+      "be_enlightened_and_be_a_lapisworker_and_rediscover_imbue_mind": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:root": {
+    "criteria": {
+      "root": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:aab_embed_mind": {
+    "criteria": {
+      "embed_mind": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise4": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise2": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:cluedin": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise3": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/treatise1": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/inventory": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_garden": {
+    "criteria": {
+      "garden": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:enter_noosphere": {
+    "criteria": {
+      "entered_noosphere": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:find_tower": {
+    "criteria": {
+      "tower": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexautomata:stack_overflow": {
+    "criteria": {
+      "root": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "lapisworks:rediscover_quenched_indigo": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom4": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom3": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom5": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom2": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/cardamom1": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:aaa_wasteful_cast": {
+    "criteria": {
+      "waste_amt": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "yaha:collide_planes": {
+    "criteria": {
+      "collide_planes": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment1": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:lore/experiment2": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "yaha:bomb_defusal": {
+    "criteria": {
+      "collide_planes": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:unlock_rod": {
+    "criteria": {
+      "avoid_vibration": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:all_triggers": {
+    "criteria": {
+      "all_triggers": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:fuse_villagers": {
+    "criteria": {
+      "fuse_villagers": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:movesthemind/try_banish_self": {
+    "criteria": {
+      "dummy": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "yaha:susception": {
+    "criteria": {
+      "collide_planes": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hierophantics:fuse_to_self": {
+    "criteria": {
+      "fuse_to_self": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science3": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science1": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "oneironaut:lore/science2": {
+    "criteria": {
+      "grant": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:y_u_no_cast_angy": {
+    "criteria": {
+      "did_the_thing": "2026-06-19 13:42:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-06-19 14:02:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-06-19 15:04:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2026-06-19 15:04:38 -0700"
+    },
+    "done": true
+  },
+  "enderite:recipes/combat/enderite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword_smithing": "2026-06-19 15:10:05 -0700"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2026-06-19 15:10:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-06-19 15:10:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-06-19 15:41:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-06-19 15:41:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-06-19 15:41:01 -0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2026-06-19 15:41:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_stair_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/stone_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-06-19 15:49:36 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/splicing_table": {
+    "criteria": {
+      "has_item": "2026-06-19 16:15:30 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/tools/spellbook": {
+    "criteria": {
+      "has_focus": "2026-06-19 16:15:30 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/focus_holder_filling_shaped/focus": {
+    "criteria": {
+      "has_item": "2026-06-19 16:15:30 -0700"
+    },
+    "done": true
+  },
+  "hexdebug:recipes/misc/focus_holder": {
+    "criteria": {
+      "has_item": "2026-06-19 16:15:30 -0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/armored_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2026-06-19 16:25:18 -0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/crystalite_elytra": {
+    "criteria": {
+      "has_item.minecraft.elytra": "2026-06-19 16:25:18 -0700"
+    },
+    "done": true
+  },
+  "betterend:all_elytras": {
+    "criteria": {
+      "vanilla": "2026-06-19 16:25:18 -0700"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-06-19 16:25:18 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/deepslate_tile_vertical_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_block_from_slates": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_pillar": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_tiles": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/deepslate_tile_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-06-19 17:33:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2026-06-19 16:50:52 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/oak_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_bricks_small": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_pillar": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "bclib:recipes/combat/tag_shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/oak_vertical_stair": {
+    "criteria": {
+      "has_item": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_bricks": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2026-06-19 16:50:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_bricks_small": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_block": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_bricks": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_tiles": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "hexical:acquire_arch_lamp": {
+    "criteria": {
+      "acquire_arch_lamp": "2026-06-19 17:25:47 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/deepslate_tile_vertical_slab": {
+    "criteria": {
+      "has_item": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks_from_slate_bricks_small": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2026-06-19 16:50:52 -0700"
+    },
+    "done": true
+  },
+  "hexkeys:enter_the_mindscape": {
+    "criteria": {
+      "entered_nether": "2026-06-19 17:30:24 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/stonecutting/slate_tiles": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_amethyst_pillar": {
+    "criteria": {
+      "has_item": "2026-06-19 17:33:41 -0700"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/building_blocks/slate_bricks_small_from_slate_bricks": {
+    "criteria": {
+      "has_item": "2026-06-19 17:43:46 -0700"
+    },
+    "done": true
+  },
+  "abverticaledition:recipes/building_blocks/deepslate_tile_vertical_stair_stonecutting": {
+    "criteria": {
+      "has_item": "2026-06-19 17:42:58 -0700"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2026-06-19 17:02:36 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
